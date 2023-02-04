@@ -1,0 +1,129 @@
+﻿Log file open, 02/04/23 21:31:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 19 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.007119
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' does not exist
+LogInit: Display: Loading text-based GConfig....
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.2-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Feb  4 2023 21:24:12
+LogInit: Compiled with Visual C++: 19.29.30146.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: "C:\Users\Monster\Desktop\Engine\Binaries\Win64\SlateViewer.exe" 
+LogInit: Base Directory: C:/Users/Monster/Desktop/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Engine/Programs/SlateViewer/Saved/Config/Windows/Engine.ini]
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Engine/Programs/SlateViewer/Saved/Config/Windows/Engine.ini]
+LogInit: Computer: DESKTOP-BNO8A7J
+LogInit: User: Monster
+LogInit: CPU Page size=4096, Cores=8
+LogInit: High frequency timer resolution =10.000000 MHz
+LogMemory: Memory total: Physical=31.9GB (32GB approx)
+LogMemory: Platform Memory Stats for Windows
+LogMemory: Process Physical Memory: 26.36 MB used, 26.36 MB peak
+LogMemory: Process Virtual Memory: 59.64 MB used, 59.64 MB peak
+LogMemory: Physical Memory: 16237.18 MB used,  16439.75 MB free, 32676.93 MB total
+LogMemory: Virtual Memory: 134204616.00 MB used,  13108.22 MB free, 134217728.00 MB total
+LogAssetRegistry: FAssetRegistry took 0.0000 seconds to start up
+LogUObjectArray: 425 objects as part of root set at end of initial load.
+LogUObjectAllocator: 78144 out of 0 bytes used by permanent object pool.
+LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+LogInit: Using OS detected language ().
+LogInit: Using OS detected locale ().
+LogInit: Warning: No paths for engine localization data were specifed in the engine configuration.
+LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+LogInit: Using OS detected language ().
+LogInit: Using OS detected locale ().
+LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+LogTextLocalizationManager: Compacting localization data took   0.00ms
+LogSlate: Using FreeType 2.10.0
+LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 0
+LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+LogInit: Setting process to per monitor DPI aware
+LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+LogUProjectInfo: Found projects:
+LogSlate: The tab "WebBrowserTab" attempted to spawn in layout 'TestSuite1_Layout' but failed for some reason. An "unrecognized tab" will be returned instead.
+LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+LogSlateStyle: Warning: Unable to find Slate Widget Style 'Button'. Using FButtonStyle defaults instead.
+LogSlateStyle: Warning: Unable to find Slate Widget Style 'Button'. Using FButtonStyle defaults instead.
+LogSlateStyle: Warning: Unable to find Slate Widget Style 'CheckBoxNoHover'. Using FCheckBoxStyle defaults instead.
+LogSlate: Warning: FTabManager::RestoreFrom(): RestoreAreaOutputCanBeNullptr was set to EOutputCanBeNullptr::Never but RestoreFrom() is returning nullptr. I.e., the PrimaryDockArea could not be created. If returning nullptr is possible, set RestoreAreaOutputCanBeNullptr to an option that could return nullptr (e.g., IfNoTabValid, IfNoOpenTabValid). This code might ensure(false) or even check(false) in the future.
+LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+LogSlate: Took 0.003980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+LogSlate: Took 0.004029 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+LogSlate: Took 0.005296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+LogSlate: Took 0.005596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+LogSlate: Request Window '' being destroyed
+LogSlate: Request Window 'Widget Gallery' being destroyed
+LogSlate: Window 'Widget Gallery' being destroyed
+LogSlate: Request Window 'Widget Gallery' being destroyed
+LogSlate: Window 'Widget Gallery' being destroyed
+LogSlate: Request Window 'Widget Reflector' being destroyed
+LogSlate: Window 'Widget Reflector' being destroyed
+LogCore: Engine exit requested (reason: Normal Slate Window Closed)
+LogSlate: Request Window 'Widget Reflector' being destroyed
+LogSlate: Window 'Widget Reflector' being destroyed
+LogCore: Engine exit requested (reason: Normal Slate Window Closed; note: exit was already requested)
+LogExit: Object subsystem successfully closed.
+LogSlate: Request Window '' being destroyed
+LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+LogCore: Engine exit requested (reason: Normal Slate Window Closed; note: exit was already requested)
+LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+LogModuleManager: Shutting down and abandoning module SlateReflector (16)
+LogModuleManager: Shutting down and abandoning module Messaging (15)
+LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (12)
+LogModuleManager: Shutting down and abandoning module SourceCodeAccess (10)
+LogModuleManager: Shutting down and abandoning module ImageWrapper (8)
+LogModuleManager: Shutting down and abandoning module InputCore (6)
+LogModuleManager: Shutting down and abandoning module Settings (4)
+LogModuleManager: Shutting down and abandoning module CoreUObject (2)
+Log file closed, 02/04/23 21:31:39

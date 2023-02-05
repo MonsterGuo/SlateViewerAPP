@@ -13,8 +13,8 @@ SlateViewer是虚幻下一个独立应用，之前一直想知道如何将这个
 同理在使用非浏览器部分，但是同样借用了第三库的情况。就需要按照编译前配置的文档位置将目录拷贝过去。
 （4）我在源码部分去掉了，浏览器的部分。所以包比较小。
 ![image](https://user-images.githubusercontent.com/39860733/216771613-87ed973f-fab9-4f52-b1a3-88bdf0f085fb.png)
-![image](https://user-images.githubusercontent.com/39860733/216771637-56f5fa8e-60d2-4f5d-8f6f-ae0ec1768d73.png)
-
+![image](https://user-images.githubusercontent.com/39860733/216771637-56f5fa8e-60d2-4f5d-8f6f-ae0ec1768d73.png)  
+一个小的总结，slate的独立应用，用虚幻源码的部分是不需要包含在包文件内的，他会编译到exe文件内，但是基于第三方的DLL，貌似是没法直接将其打包到exe里，类似游戏的多个Dll库。所以下一步的重心是怎么将多个DLL导出成单个DLL或者exe里。（这里是我的初步认知，随着我对软件的了解这谢观念也许会不停的变化，这里还请各位指出。）
 
 下一步要做到的是查找虚幻是否已经提供了，类似虚幻分发二进制版本时提供的脚本配置，来导出自己想要的”独立应用“。
 
